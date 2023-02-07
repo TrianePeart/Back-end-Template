@@ -60,13 +60,6 @@ I am creating a writing app where people can post their writing.
 
 Please submit your proposal in a **group message with JD && Carlos** via Slack.
 
-
-
-1. Create a directory called `project-snack-a-log`.
-1. `cd` into the directory.
-1. Fork and clone the [`project-snack-a-log-back-end`](https://github.com/9-1-pursuit/project-snack-a-log-backend) repo into your `project-snack-a-log` directory.
-1. Change the name of your `project-snack-a-log-backend` directory to `back-end`.
-
 ### Back-end setup
 
 It would be best to open a new terminal tab dedicated to running and developing your back-end.
