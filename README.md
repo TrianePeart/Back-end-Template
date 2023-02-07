@@ -4,7 +4,7 @@ It would be best to open a new terminal tab dedicated to running and developing 
 
 - `cd back-end`
 - `touch .env`
-- rename document in package.json
+- rename document in `package.json`
 
 **.env**
 
